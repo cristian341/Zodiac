@@ -1,2 +1,2 @@
-# Zodiac_sigh
-Find you zodiac sigh using Python 
+# Zodiac
+Find you zodiac using Python 
